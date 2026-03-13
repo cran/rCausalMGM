@@ -1,5 +1,6 @@
-16332926c0715574e96738fbb849920b *DESCRIPTION
+a7818de10901c73480e9043367f961c6 *DESCRIPTION
 bd0224ee8f563d63bd8d233cd7a8139c *NAMESPACE
+ce9cbd5d92ebc42979920429052268a9 *NEWS
 9128f4e2ec2caf1973dedfe53fbab49c *R/MiscFunctions.R
 9d88da99c887e0a509d92b96fd8674c1 *R/RcppExports.R
 5d945207d8c4e13adbb1d1c20e3f2b07 *README.md
@@ -52,9 +53,9 @@ b3ee97b272dcfcb57321c01174f5c9f4 *man/simRandomDAG.Rd
 6c3f8c53a3b761707ceda4949f880520 *man/steps.Rd
 8377bd7541d81ee86a9ff241fda9dead *src/Bootstrap.cpp
 4212c3a5350b04668cccf61506fc09ad *src/Boss.cpp
-97f4de842f6c7c519e1825a30b4b120e *src/CensoredVariable.cpp
+a097a052b31e72046d616dcd4f70235a *src/CensoredVariable.cpp
 1c64faaf96d1c41dd435044c34054ef0 *src/ChoiceGenerator.cpp
-b19aaae83952d87c5b728c75748a6d0d *src/ContinuousVariable.cpp
+d4f86e35ce30e4964653a9303289a381 *src/ContinuousVariable.cpp
 1a4c098a822a6d7993fad7cd78d6fa5c *src/CoxIRLSRegression.cpp
 e4b5fa146088efdaef59d8476ed31118 *src/CoxMGM.cpp
 7a82184a1b2c089b5b4474e9b68f2b0b *src/CoxMGMParams.cpp
